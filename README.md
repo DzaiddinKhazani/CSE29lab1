@@ -1,1 +1,2 @@
-# CSE29lab1 this is a readme file to be read by me?
+# CSE29lab1
+read the readme file
